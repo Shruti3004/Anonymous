@@ -8,7 +8,7 @@ const Body = () => {
     <div className="container py-section">
       <div className="d-flex justify-content-between">
         <h1 className="text-white mt-5">The <span className="text-primaryColor">ANONymous</span> Body is populated by</h1>
-        <div className="join-text text-primaryColor">IOO2</div>
+        <div className="join-text text-primaryColor d-flex align-self-center pl-4">IOO2</div>
       </div>
       <ul className="text-tertiaryColor mt-4 font-25">
         <li>
@@ -16,7 +16,7 @@ const Body = () => {
         </li>
       </ul>
       <div className="row d-flex justify-content-center">
-        <div className="col-lg-6 col-md-12 col-sm-10 col-10 mt-4">
+        <div className="col-lg-6 col-md-12 col-sm-11 col-11 mt-4">
           <div className="join-card-background">
             <img src={star} alt="" className="img-fluid px-lg-5 px-4 pt-5 pb-3" />
             <h2 className="text-white px-lg-5 px-4">Fully Individual</h2>
@@ -31,7 +31,7 @@ const Body = () => {
             </p>
           </div>
         </div>
-        <div className="col-lg-6 col-md-12 col-sm-10 col-10 mt-4">
+        <div className="col-lg-6 col-md-12 col-sm-11 col-11 mt-4">
           <div className="join-card-background">
             <img src={mask} alt="" className="img-fluid px-lg-5 px-4 pt-5 pb-3" />
             <h2 className="text-white px-lg-5 px-4">ANONymous Secrets</h2>
