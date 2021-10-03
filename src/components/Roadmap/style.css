@@ -1,0 +1,19 @@
+.roadmap-background {
+  background: url("../../assets/roadMapBackground.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 75vh;
+}
+.roadmap-cards {
+  background: rgba(255, 255, 255, 0.03);
+  box-shadow: 0 3px 20px 0 rgba(31, 38, 135, 0.37);
+  backdrop-filter: blur(2px);
+  -webkit-backdrop-filter: blur(2px);
+  border-radius: 30px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+}
+.percent-text{
+    font-size: 80px;
+    letter-spacing: -15px;
+}
