@@ -7,7 +7,6 @@
 .image-content {
   position: absolute;
   bottom: 8px;
-  /* left: 16px; */
   width: 92%;
   background: rgba(255, 255, 255, 0.03);
   box-shadow: 0 3px 20px 0 rgba(31, 38, 135, 0.37);

@@ -1,4 +1,5 @@
 import React from "react";
+import "./style.css";
 import logo from "../../assets/logo.png";
 
 const Footer = () => {
@@ -16,8 +17,8 @@ const Footer = () => {
           </div>
           <hr />
           <div className="d-flex justify-content-between text-white pb-5">
-            <h1 className="pt-4">Jump To</h1>
-            <div className="d-flex justify-content-around pt-4">
+            <h1 className="pt-4 d-flex align-self-center">Jump To</h1>
+            <div className="footer-components pt-4">
               <div className="px-4 font-18">Featured</div>
               <div className="px-4 font-18">The ANONymous</div>
               <div className="px-4 font-18">Mint</div>
