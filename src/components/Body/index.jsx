@@ -15,8 +15,8 @@ const Body = () => {
           Unique ANONymous Unique ANONymous Living Eternally on the blockchain Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis quasi consectetur dolores.
         </li>
       </ul>
-      <div className="row">
-        <div className="col-lg-6 col-md-12 col-sm-12 col-12 mt-4">
+      <div className="row d-flex justify-content-center">
+        <div className="col-lg-6 col-md-12 col-sm-10 col-10 mt-4">
           <div className="join-card-background">
             <img src={star} alt="" className="img-fluid px-lg-5 px-4 pt-5 pb-3" />
             <h2 className="text-white px-lg-5 px-4">Fully Individual</h2>
@@ -31,7 +31,7 @@ const Body = () => {
             </p>
           </div>
         </div>
-        <div className="col-lg-6 col-md-12 col-sm-12 col-12 mt-4">
+        <div className="col-lg-6 col-md-12 col-sm-10 col-10 mt-4">
           <div className="join-card-background">
             <img src={mask} alt="" className="img-fluid px-lg-5 px-4 pt-5 pb-3" />
             <h2 className="text-white px-lg-5 px-4">ANONymous Secrets</h2>
