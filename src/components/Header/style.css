@@ -1,3 +1,7 @@
+.logo-image {
+  max-width: 100%;
+  height: auto;
+}
 .home-background {
   background-image: url("../../assets/background.png"),
     linear-gradient(130deg, #000000 0, #000000 51%);
@@ -7,7 +11,7 @@
   background-position: center;
 }
 .main-heading {
-  font-size: 80px;
+  font-size: 70px;
 }
 .gallery-card {
   background: rgba(255, 255, 255, 0.03);
@@ -18,10 +22,23 @@
   border: 1px solid rgba(255, 255, 255, 0.18);
 }
 @media (max-width: 568px) {
+  .main-heading {
+    font-size: 45px;
+  }
   .mobile-display-none {
     display: none;
   }
   .pl-4 {
     padding-left: 0;
+  }
+  .logo-image {
+    height: 100px;
+  }
+  .home-background {
+    background: transparent;
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
   }
 }

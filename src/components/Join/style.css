@@ -1,12 +1,21 @@
 .join-card {
+  border: 2px solid;
+  border-image-slice: 1;
+  border-width: 1px;
+  border-image-source: linear-gradient(
+    222.73deg
+    , var(--tertiaryColor), transparent);
+  border-radius: 20px;
+}
+.join-card-background {
   background: linear-gradient(
     222.73deg,
-    rgba(0, 0, 0, 0.411) -9.07%,
-    rgba(0, 0, 0, 0.829) 93.37%
+    rgba(160, 160, 160, 0.2) -9.07%,
+    rgba(255, 255, 255, 0) 93.37%
   );
   filter: drop-shadow(4px 4px 50px rgba(0, 0, 0, 0.06));
   backdrop-filter: blur(142px);
-  border-radius: 20px;
+  border-radius: 50px;
 }
 .join-box {
   padding-left: 150px;
@@ -35,4 +44,8 @@
   .mobile-center {
     text-align: center;
   }
+}
+.price{
+  font-size: 40px;
+  font-weight: 900;
 }

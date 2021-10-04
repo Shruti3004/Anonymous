@@ -16,8 +16,8 @@ const Footer = () => {
             </div>
           </div>
           <div className="d-flex justify-content-end w-100">
-            <i class="fa fa-twitter fa-2x text-primaryColor p-2 mx-3 icons-background"></i>
-            <i class="fab fa-discord fa-2x text-primaryColor p-2 icons-background"></i>
+            <i className="fa fa-twitter fa-2x text-primaryColor p-2 mx-3 icons-background"></i>
+            <i className="fab fa-discord fa-2x text-primaryColor p-2 icons-background"></i>
           </div>
           <hr />
           <div className="d-flex justify-content-between text-white pb-5">
