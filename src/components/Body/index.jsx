@@ -7,7 +7,7 @@ const Body = () => {
   return (
     <div className="container py-section">
       <div className="d-flex justify-content-between">
-        <h1 className="text-white mt-5">
+        <h1 className="text-white mt-lg-5">
           The <span className="text-primaryColor">ANONymous</span> Body is
           populated by
         </h1>

@@ -36,7 +36,7 @@
   }
   .home-background {
     background: transparent;
-    min-height: 100vh;
+    min-height: auto;
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
