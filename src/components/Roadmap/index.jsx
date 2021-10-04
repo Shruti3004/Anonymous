@@ -54,18 +54,16 @@ const Roadmap = () => {
             <div className="col-lg-5 col-md-12 col-sm-12 col-12"></div>
           </div>
           <div className="row d-flex justify-content-center mt-3">
-            <div className="row d-flex justify-content-center mt-3">
-              <div className="col-lg-6 col-md-12 col-sm-12 col-12"></div>
-              <div className="col-lg-1 col-md-2 col-sm-2 col-2 text-white py-3 px-lg-4 px-0 percent-text">
-                75%
-              </div>
-              <div className="col-lg-5 col-md-9 col-sm-9 col-9 roadmap-cards text-white py-3 px-4">
-                <strike className="font-25">Phase 4</strike>
-                <p className="text-tertiaryColor">
-                  Lorem Ipsum is simply dummy text of the printing and
-                  typesetting industry.
-                </p>
-              </div>
+            <div className="col-lg-6 col-md-12 col-sm-12 col-12"></div>
+            <div className="col-lg-1 col-md-2 col-sm-2 col-2 text-white py-3 px-lg-4 px-0 percent-text">
+              75%
+            </div>
+            <div className="col-lg-5 col-md-9 col-sm-9 col-9 roadmap-cards text-white py-3 px-4">
+              <strike className="font-25">Phase 4</strike>
+              <p className="text-tertiaryColor">
+                Lorem Ipsum is simply dummy text of the printing and typesetting
+                industry.
+              </p>
             </div>
           </div>
           <div className="row d-flex justify-content-center mt-3">
