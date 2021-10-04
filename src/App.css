@@ -8,9 +8,9 @@ body {
 
 /* Root variables */
 :root {
-  --primaryColor: #1130ED;
-  --secondaryColor: #0A0A0A;
-  --tertiaryColor: #CFBEBE;
+  --primaryColor: #1130ed;
+  --secondaryColor: #0a0a0a;
+  --tertiaryColor: #cfbebe;
 }
 
 /* Srollbar */
@@ -57,40 +57,59 @@ body {
   font-family: Coiffeur-regular;
 }
 
-body{
-  font-family:  Coiffeur-medium !important;
+body {
+  font-family: Coiffeur-medium !important;
 }
 
-h1, h2, h3, h4, h5, h6{
-  font-family:  Coiffeur-bold !important;
+/* Utility Classes */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: Coiffeur-bold !important;
 }
-
-.font-12{
+.font-12 {
   font-size: 12px;
 }
-.font-14{
+.font-14 {
   font-size: 14px;
 }
-.font-15{
+.font-15 {
   font-size: 15px;
 }
-.font-16{
+.font-16 {
   font-size: 16px;
 }
-.font-17{
+.font-17 {
   font-size: 17px;
 }
-.font-18{
+.font-18 {
   font-size: 18px;
 }
-.font-19{
+.font-19 {
   font-size: 19px;
 }
-.font-20{
+.font-20 {
   font-size: 20px;
 }
-.font-25{
+.font-25 {
   font-size: 25px;
+}
+.py-section {
+  padding: 80px 0px;
+}
+@media (max-width: 768px) {
+  .py-section {
+    padding: 50px 0px;
+  }
+  .font-25 {
+    font-size: 17px;
+  }
+}
+.pl-4 {
+  padding-left: 1.5rem;
 }
 
 /* Links */
@@ -99,33 +118,17 @@ a:hover {
 }
 
 /* Font colour */
-.text-primaryColor{
+.text-primaryColor {
   color: var(--primaryColor) !important;
 }
-.text-tertiaryColor{
+.text-tertiaryColor {
   color: var(--tertiaryColor) !important;
 }
 
 /* Background color */
-.bg-primaryColor{
+.bg-primaryColor {
   background: var(--primaryColor) !important;
 }
-.bg-secondaryColor{
+.bg-secondaryColor {
   background: var(--secondaryColor) !important;
-}
-
-.py-section{
-  padding: 80px 0px;
-}
-
-@media(max-width: 768px){
-  .py-section{
-    padding: 50px 0px;
-  }
-  .font-25{
-    font-size: 17px;
-  }
-}
-.pl-4{
-  padding-left: 1.5rem;
 }

@@ -12,11 +12,11 @@
   padding-left: 150px;
   padding-right: 150px;
 }
-@media(max-width: 568px){
-    .join-box {
-        padding-left: 20px;
-        padding-right: 20px;
-      }
+@media (max-width: 568px) {
+  .join-box {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
 }
 .join-price-card {
   background: rgba(255, 255, 255, 0.03);
@@ -25,14 +25,14 @@
   border-radius: 20px;
   border: 1px solid rgba(255, 255, 255, 0.18);
 }
-.sold-out-button{
-    border: none;
-    font-weight: bold;
-    border-radius: 10px;
-    box-shadow: 0px 10px 20px var(--primaryColor);
+.sold-out-button {
+  border: none;
+  font-weight: bold;
+  border-radius: 10px;
+  box-shadow: 0px 10px 20px var(--primaryColor);
 }
-@media(max-width: 768px){
-    .mobile-center{
-        text-align: center;
-    }
+@media (max-width: 768px) {
+  .mobile-center {
+    text-align: center;
+  }
 }
