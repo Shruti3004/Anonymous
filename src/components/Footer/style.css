@@ -1,11 +1,21 @@
-.footer-components{
-    display: flex;
-    justify-content: space-around;
+.footer-components {
+  display: flex;
+  justify-content: space-around;
 }
-@media(max-width: 992px){
-    .footer-components{
-        display: flex;
-        align-items: center;
-        flex-direction: column;
-    }
+@media (max-width: 992px) {
+  .footer-components {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+}
+.icons-background {
+  background: linear-gradient(
+    222.73deg,
+    rgba(255, 255, 255, 0.2) -9.07%,
+    rgba(255, 255, 255, 0) 93.37%
+  );
+  filter: drop-shadow(4px 4px 50px rgba(0, 0, 0, 0.06));
+  backdrop-filter: blur(142px);
+  border-radius: 5px;
 }
