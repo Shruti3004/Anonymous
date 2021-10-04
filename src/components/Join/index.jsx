@@ -14,7 +14,7 @@ const Join = () => {
             <img src={logo} className="img-fluid" />
           </div>
           <div className="col-lg-6 col-md-6 col-sm-12 col-12 d-flex justify-content-end align-self-center mt-md-0 mt-3 h-100">
-            <div className="join-card text-white py-3 px-4 w-100">
+            <div className="join-card text-white py-3 px-4 w-100 mobile-center">
               <div className="font-25">PRICE PE ANONYMOUS</div>
               <div className="text-primaryColor price">
                 0.08 <span className="text-white font-17">ETH Each</span>
