@@ -12,8 +12,8 @@ const Header = () => {
         <img src={logo} alt="" className="img-fluid" />
         <div className="gallery-card text-white p-3 mt-4 h-100 text-left d-flex justify-content-between">
           <div>
-            <div className="font-25">Gallery</div>
-            <p className="text-tertiaryColor">Explore the ANONymous</p>
+            <div className="font-25 mobile-display-none">Gallery</div>
+            <p className="text-tertiaryColor mobile-display-none">Explore the ANONymous</p>
           </div>
           <img src={gallery} alt="" className="pl-4" height="28px" />
         </div>
