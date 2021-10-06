@@ -8,11 +8,11 @@ const Body = () => {
     <div className="container py-section">
       <div className="d-flex justify-content-between">
         <h1 className="text-white mt-lg-5">
-          The <span className="text-primaryColor">ANONymous</span> Body is
+          The <span className="text-primaryColor">ANONymous</span><br />Body is
           populated by
         </h1>
         <div className="join-text text-primaryColor d-flex align-self-center pl-4">
-          IOO2
+          1002
         </div>
       </div>
       <ul className="text-tertiaryColor mt-4 font-25">

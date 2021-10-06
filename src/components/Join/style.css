@@ -15,6 +15,11 @@
   );
   filter: drop-shadow(4px 4px 50px rgba(0, 0, 0, 0.06));
   backdrop-filter: blur(142px);
+  border: 1px solid;
+  border-image-slice: 1;
+  border-image-source: linear-gradient(
+    222.73deg
+    , var(--primaryColor), transparent);
   border-radius: 50px;
 }
 .join-box {
@@ -48,4 +53,12 @@
 .price{
   font-size: 40px;
   font-weight: 900;
+}
+.count-text{
+  font-size: 55px;
+}
+@media(max-width:768px){
+  .count-text{
+    font-size: 32px;
+  }
 }

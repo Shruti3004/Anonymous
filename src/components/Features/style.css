@@ -5,3 +5,9 @@
     background: rgba(255, 255, 255, 0.04);
     border-radius: 30px;
 }
+.featured-block-padding{
+    padding-bottom: 20rem ;
+}
+.feature-images{
+    margin-top: -22rem;
+}

@@ -2,7 +2,7 @@ li {
   list-style-type: square;
 }
 .join-text {
-  font-size: 90px;
+  font-size: 120px;
 }
 @media (max-width: 768px) {
   .join-text {

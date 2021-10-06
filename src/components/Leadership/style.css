@@ -14,4 +14,12 @@
   -webkit-backdrop-filter: blur(2px);
   border-radius: 30px;
   border: 1px solid rgba(255, 255, 255, 0.18);
+  text-align: left;
+  padding-left: 15px;
+}
+.leadership-block-padding{
+  padding-bottom: 20rem ;
+}
+.leadership-images{
+  margin-top: -20rem;
 }

@@ -8,10 +8,12 @@ const Leadership = () => {
   return (
     <div className="py-section">
       <div className="container feature-background">
-        <h1 className="text-center pt-5 text-white">
+        <h1 className="text-center pt-5 leadership-block-padding text-white">
           Our <span className="text-primaryColor">Leadership</span>
         </h1>
-        <div className="row d-flex justify-content-center pb-5">
+      </div>
+      <div className="container">
+        <div className="row d-flex justify-content-center pb-5 leadership-images">
           <div className="col-lg-3 col-md-4 col-sm-10 col-10 my-4 text-center image-container">
             <img
               src={leadershipOne}

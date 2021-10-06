@@ -6,14 +6,25 @@
   min-height: 75vh;
 }
 .roadmap-cards {
-  background: rgba(255, 255, 255, 0.03);
-  box-shadow: 0 3px 20px 0 rgba(31, 38, 135, 0.37);
-  backdrop-filter: blur(2px);
-  -webkit-backdrop-filter: blur(2px);
+  background: linear-gradient(
+    222.73deg,
+    rgba(160, 160, 160, 0.2) -9.07%,
+    rgba(255, 255, 255, 0) 93.37%
+  );
+  filter: drop-shadow(4px 4px 50px rgba(0, 0, 0, 0.06));
+  backdrop-filter: blur(5px);
   border-radius: 30px;
   border: 1px solid rgba(255, 255, 255, 0.18);
 }
 .percent-text {
   font-size: 80px;
   letter-spacing: -15px;
+}
+.margin-cards-negative{
+  margin-top: -2rem;
+}
+@media(max-width: 992px){
+  .margin-cards-negative{
+    margin-top: 20px;
+  }
 }

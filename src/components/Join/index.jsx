@@ -22,8 +22,8 @@ const Join = () => {
             </div>
           </div>
         </div>
-        <h1 className="text-white mt-4">Count your Counts</h1>
-        <div className="text-tertiaryColor">
+        <h2 className="text-white mt-4 count-text">Count your Counts</h2>
+        <div className="text-tertiaryColor font-25">
           Enter the amount of ANONymous You would like to purchase
         </div>
         <div className="join-price-card text-white py-3 px-5 mt-5">
@@ -40,8 +40,8 @@ const Join = () => {
             <div className="text-primaryColor price">00 ETH</div>
           </div>
           <div className="col-lg-7 col-md-6 col-sm-12 col-12 d-flex align-self-center">
-            <button className="w-100 sold-out-button text-center bg-primaryColor text-white py-2 mt-md-0 mt-3">
-              Sold Out
+            <button className="w-100 sold-out-button text-center bg-primaryColor text-white py-3 mt-md-0 mt-3">
+              <h3>Sold Out</h3>
             </button>
           </div>
         </div>
