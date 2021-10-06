@@ -19,7 +19,7 @@
   border-image-source: linear-gradient(
     222.73deg
     , var(--primaryColor), transparent);
-  border-radius: 50px;
+  /* border-radius: 50px; */
 }
 .join-box {
   padding-left: 150px;
