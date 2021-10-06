@@ -23,16 +23,16 @@ const Footer = () => {
           <div className="d-flex justify-content-between text-white pb-5">
             <h2 className="pt-4 d-flex align-self-center">Jump To</h2>
             <div className="footer-components pt-4 text-tertiaryColor">
-              <div className="px-4 font-20 font-bold">Featured</div>
-              <div className="px-4 font-20 font-bold">The ANONymous</div>
-              <div className="px-4 font-20 font-bold">Mint</div>
-              <div className="px-4 font-20 font-bold">Roadmap</div>
-              <div className="px-4 font-20 font-bold">Team</div>
+              <div className="px-4 font-20 font-frekle">Featured</div>
+              <div className="px-4 font-20 font-frekle">The ANONymous</div>
+              <div className="px-4 font-20 font-frekle">Mint</div>
+              <div className="px-4 font-20 font-frekle">Roadmap</div>
+              <div className="px-4 font-20 font-frekle">Team</div>
             </div>
           </div>
         </div>
       </div>
-      <div className="py-4 text-center text-tertiaryColor">
+      <div className="py-4 text-center text-tertiaryColor font-frekle font-18">
         Copyright ANONymous. All Rights Reserved
       </div>
     </>

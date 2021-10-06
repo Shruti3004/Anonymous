@@ -24,7 +24,7 @@ const Header = () => {
           />
         </div>
       </div>
-      <div className="d-flex justify-content-center align-items-center flex-column">
+      <div className="d-flex justify-content-center align-items-center flex-column d-md-none">
         <h1 className="text-white text-center main-heading">
           ANON<span className="text-primaryColor">ymous</span>
         </h1>

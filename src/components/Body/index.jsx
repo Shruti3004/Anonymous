@@ -15,7 +15,7 @@ const Body = () => {
           1002
         </div>
       </div>
-      <ul className="text-tertiaryColor mt-4 font-25">
+      <ul className="text-tertiaryColor mt-4 font-25 font-frekle">
         <li>
           Unique ANONymous Unique ANONymous Living Eternally on the blockchain
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis
@@ -31,7 +31,7 @@ const Body = () => {
               className="img-fluid px-lg-5 px-4 pt-5 pb-3"
             />
             <h2 className="text-white px-lg-5 px-4">Fully Individual</h2>
-            <p className="text-tertiaryColor px-lg-5 px-4 pb-5 pt-3">
+            <p className="text-tertiaryColor px-lg-5 px-4 pb-5 pt-3 font-frekle font-18">
               Lorem Ipsum is simply dummy text of the printing and typesetting
               industry. Lorem Ipsum has been the industry's standard dummy text
               ever since the 1500s, when an unknown printer took a galley of
@@ -50,7 +50,7 @@ const Body = () => {
               className="img-fluid px-lg-5 px-4 pt-5 pb-3"
             />
             <h2 className="text-white px-lg-5 px-4">ANONymous Secrets</h2>
-            <p className="text-tertiaryColor px-lg-5 px-4 pb-5 pt-3">
+            <p className="text-tertiaryColor px-lg-5 px-4 pb-5 pt-3 font-frekle font-18">
               Lorem Ipsum is simply dummy text of the printing and typesetting
               industry. Lorem Ipsum has been the industry's standard dummy text
               ever since the 1500s, when an unknown printer took a galley of

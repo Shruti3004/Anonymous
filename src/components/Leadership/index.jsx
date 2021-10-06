@@ -22,7 +22,7 @@ const Leadership = () => {
             />
             <div className="image-content text-white py-2">
               <h3>Cristina M</h3>
-              <div>The Artist</div>
+              <div className="font-frekle font-18">The Artist</div>
             </div>
           </div>
           <div className="col-lg-3 col-md-4 col-sm-10 col-10 my-4 text-center image-container">
@@ -33,7 +33,7 @@ const Leadership = () => {
             />
             <div className="image-content text-white py-2">
               <h3>John D</h3>
-              <div>The Artist</div>
+              <div className="font-frekle font-18">The Artist</div>
             </div>
           </div>
           <div className="col-lg-3 col-md-4 col-sm-10 col-10 my-4 text-center image-container">
@@ -44,7 +44,7 @@ const Leadership = () => {
             />
             <div className="image-content text-white py-2">
               <h3>Alex P</h3>
-              <div>The Artist</div>
+              <div className="font-frekle font-18">The Artist</div>
             </div>
           </div>
         </div>

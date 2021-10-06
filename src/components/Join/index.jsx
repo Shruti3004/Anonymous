@@ -15,15 +15,15 @@ const Join = () => {
           </div>
           <div className="col-lg-6 col-md-6 col-sm-12 col-12 d-flex justify-content-end align-self-center mt-md-0 mt-3 h-100">
             <div className="join-card text-white py-3 px-4 w-100 mobile-center">
-              <div className="font-25">PRICE PE ANONYMOUS</div>
+              <div className="font-25 font-frekle">PRICE PE ANONYMOUS</div>
               <div className="text-primaryColor price">
-                0.08 <span className="text-white font-17">ETH Each</span>
+                0.08 <span className="text-white font-20 font-frekle">ETH Each</span>
               </div>
             </div>
           </div>
         </div>
         <h2 className="text-white mt-4 count-text">Count your Counts</h2>
-        <div className="text-tertiaryColor font-25">
+        <div className="text-tertiaryColor font-25 font-frekle">
           Enter the amount of ANONymous You would like to purchase
         </div>
         <div className="join-price-card text-white py-3 px-5 mt-5">
@@ -35,7 +35,7 @@ const Join = () => {
           </div>
         </div>
         <div className="row mt-5">
-          <div className="col-lg-5 col-md-6 col-sm-12 col-12 text-white font-25 mobile-center">
+          <div className="col-lg-5 col-md-6 col-sm-12 col-12 text-white font-25 mobile-center font-frekle">
             Total
             <div className="text-primaryColor price">00 ETH</div>
           </div>

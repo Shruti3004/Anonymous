@@ -21,7 +21,7 @@ const Roadmap = () => {
             <div className="col-lg-3 col-md-9 col-sm-9 col-9 roadmap-cards text-white py-3 px-4">
               <strike className="font-25">Phase 1</strike>
               <br />
-              <strike className="text-tertiaryColor font-bold font-19">
+              <strike className="text-tertiaryColor font-frekle font-20">
                 Lorem Ipsum is simply dummy text of the printing and typesetting
                 industry.
               </strike>
@@ -35,7 +35,7 @@ const Roadmap = () => {
             </div>
             <div className="col-lg-3 col-md-9 col-sm-9 col-9 roadmap-cards text-white py-3 px-4">
               <strike className="font-25">Phase 2</strike>
-              <p className="text-tertiaryColor font-bold font-19">
+              <p className="text-tertiaryColor font-frekle font-20">
                 Lorem Ipsum is simply dummy text of the printing and typesetting
                 industry.
               </p>
@@ -48,7 +48,7 @@ const Roadmap = () => {
             </div>
             <div className="col-lg-3 col-md-9 col-sm-9 col-9 roadmap-cards text-white py-3 px-4">
               <strike className="font-25">Phase 3</strike>
-              <p className="text-tertiaryColor font-bold font-19">
+              <p className="text-tertiaryColor font-frekle font-20">
                 Lorem Ipsum is simply dummy text of the printing and typesetting
                 industry.
               </p>
@@ -62,7 +62,7 @@ const Roadmap = () => {
             </div>
             <div className="col-lg-4 col-md-9 col-sm-9 col-9 roadmap-cards text-white py-3 px-4">
               <div className="font-25">ANONymous Live Forever</div>
-              <p className="text-tertiaryColor font-bold font-19">
+              <p className="text-tertiaryColor font-frekle font-20">
                 Lorem Ipsum is simply dummy text of the printing and typesetting
                 industry.{" "}
               </p>
@@ -74,7 +74,7 @@ const Roadmap = () => {
             </div>
             <div className="col-lg-3 col-md-9 col-sm-9 col-9 roadmap-cards text-white py-3 px-4">
               <strike className="font-25">Phase 3</strike><br />
-              <strike className="text-tertiaryColor font-bold font-19">
+              <strike className="text-tertiaryColor font-frekle font-20">
                 Lorem Ipsum is simply dummy text of the printing and typesetting
                 industry.{" "}
               </strike>
