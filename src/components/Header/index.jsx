@@ -12,7 +12,7 @@ const Header = () => {
         <div className="gallery-card text-white p-3 mt-4 h-100 text-left d-flex justify-content-between">
           <div>
             <div className="font-25 mobile-display-none">Gallery</div>
-            <p className="text-tertiaryColor mobile-display-none">
+            <p className="text-tertiaryColor mobile-display-none font-frekle font-18">
               Explore the ANONymous
             </p>
           </div>
