@@ -33,7 +33,7 @@ const Header = () => {
         <div className="font-17 text-tertiaryColor mb-2">Look into future</div>
       </div>
       <div className="container">
-      <div className="row mobile-display-none" style={{ marginTop: "60vh" }}>
+      <div className="row mobile-display-none" style={{ marginTop: "57vh" }}>
         <div className="col-lg-6 col-md-6 col-sm-12 col-12">
           <i className="fa fa-twitter fa-3x text-primaryColor p-2 icons-background"></i>
           <div className="font-bold text-tertiaryColor font-25 mt-2">Twitter</div>
