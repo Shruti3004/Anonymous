@@ -66,6 +66,10 @@ body {
   font-family: frekle-regular;
 }
 
+.text-right{
+  text-align: right;
+}
+
 body {
   font-family: Coiffeur-medium !important;
 }
