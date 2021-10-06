@@ -1,7 +1,6 @@
 .join-card {
-  border: 2px solid;
+  border: 1px solid;
   border-image-slice: 1;
-  border-width: 1px;
   border-image-source: linear-gradient(
     222.73deg
     , var(--tertiaryColor), transparent);

@@ -22,7 +22,7 @@ const Body = () => {
           quasi consectetur dolores.
         </li>
       </ul>
-      <div className="row d-flex justify-content-center">
+      <div className="row d-flex justify-content-center pt-4">
         <div className="col-lg-6 col-md-12 col-sm-11 col-11 mt-4">
           <div className="join-card-background">
             <img
